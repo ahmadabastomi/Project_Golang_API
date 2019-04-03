@@ -1,1 +1,5 @@
-This is project for test in Omogogo
+This is project API using Golang
+this project create using:
+- gin
+- beegoORM
+- PostgreSQL
